@@ -1,0 +1,6 @@
+s1=str(input("Enter student's name : "))
+print(f"Student's name is {s1},and it's data type is {type(s1)}")
+a=int(input("Enter his roll number :  "))
+print(f"{s1}'s roll number is {a} and it's data type is {type(a)}")
+b=int(input("Enter his marks :  "))
+print(f"{s1}'s marks are {b} and it's data type is {type(b)}")
